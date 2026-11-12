@@ -47,6 +47,11 @@ promptfoo view
 
 > **See [Getting Started](https://www.promptfoo.dev/docs/getting-started/) (evals) or [Red Teaming](https://www.promptfoo.dev/docs/red-team/) (vulnerability scanning) for more!**
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/Promptfoo/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/promptfoo"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ## What can you do with Promptfoo?
 
 - **Test your prompts and models** with [automated evaluations](https://www.promptfoo.dev/docs/getting-started/)
